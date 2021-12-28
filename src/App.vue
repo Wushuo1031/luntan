@@ -1,6 +1,6 @@
 <template>
-  <div>APP 根组件
-    <h1>6666</h1>
+  <div>
+    <router-view></router-view>
   </div>
 </template>
 
