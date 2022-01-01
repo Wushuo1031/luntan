@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-
 Vue.use(Vuex)
 
 export default new Vuex.Store({
@@ -11,7 +10,7 @@ export default new Vuex.Store({
     }
   },
   mutations: {
-    // 用来修改tokeninfo的方法
+    // 用来修改tokeninfo的方法123
     updateTokenInfo (state, paylode) {
       state.tokenInfo = paylode
       localStorage.setItem('state', JSON.stringify(state))
