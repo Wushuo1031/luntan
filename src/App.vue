@@ -17,6 +17,6 @@ export default {
 
 <style lang="less" scoped>
 h1 {
-  font-size: 12px;
+  font-size: 13px;
 }
 </style>
