@@ -4,6 +4,7 @@
     <van-form @submit="onSubmit">
       <!-- label 代表的是左侧的文字 -->
       <!-- required 代表的是  必填项那个 * 红色星号 -->
+      <!-- 测试 -->
       <van-field
         required
         v-model="form.mobile"
