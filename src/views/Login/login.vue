@@ -68,7 +68,7 @@ export default {
         // 2.跳转到首页
         this.$router.push('/')
       } else {
-        // 登录失败
+        // 登录失败111
       }
     }
   }
